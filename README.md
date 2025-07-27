@@ -17,21 +17,22 @@ Make sure the following tools are installed on your system:
 ## 🚀 Getting Started
 
 Follow these steps to set up and run the project locally:
+ 
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/JoshuaCastello/3d_portfolio.git
 
-### 1️⃣ Clone the repository
+2. **Navigate to the project folder**
+   ```bash
+   cd 3d_portfolio
+3. **Install dependencies**
+   ```bash
+    npm install
+4. **Start the development server**
+   ```bash
+   npm run dev
+  
+ 🔗 Open your browser and visit:
+        http://localhost:5173
+   
 
-```bash
-git clone https://github.com/JoshuaCastello/3d_portfolio.git
-
-###2️⃣ Navigate to the project folder
-'''bash
-cd 3d_portfolio
-
-###3️⃣ Install dependencies
-'''bash
-npm install
-
-###4️⃣ Start the development server
-'''bash
-npm run dev
-📍 Visit: http://localhost:5173 to view the website in your browser.
