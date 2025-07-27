@@ -23,15 +23,15 @@ Follow these steps to set up and run the project locally:
 ```bash
 git clone https://github.com/JoshuaCastello/3d_portfolio.git
 
-2️⃣ Navigate to the project folder
+###2️⃣ Navigate to the project folder
 '''bash
 cd 3d_portfolio
 
-3️⃣ Install dependencies
+###3️⃣ Install dependencies
 '''bash
 npm install
 
-4️⃣ Start the development server
+###4️⃣ Start the development server
 '''bash
 npm run dev
 📍 Visit: http://localhost:5173 to view the website in your browser.
