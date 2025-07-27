@@ -1,37 +1,28 @@
-# Joshua Castello - 3D Portfolio
-
-This is a 3D interactive portfolio website built using React and Three.js
+# Joshua Castello – 3D Portfolio
+This is a 3D interactive portfolio website built using React, Three.js, and Tailwind CSS. It showcases projects, experience, and skills in a visually engaging way.
 
 ✅ Requirements
+Make sure the following tools are installed on your system:
 Node.js (v16 or higher recommended)
 npm (comes with Node.js)
 Git
 
 🚀 Getting Started
-Follow these steps to run the project locally on your system:
+Follow these steps to set up and run the project locally:
 
-1. Clone the repository
+1️⃣ Clone the repository
 bash
-Copy
-Edit
 git clone https://github.com/JoshuaCastello/3d_portfolio.git
-2. Navigate to the project directory
-bash
-Copy
-Edit
-cd 3d_portfolio
-3. Install the dependencies
-Make sure you have Node.js and npm installed. Then run:
 
+2️⃣ Navigate to the project folder
 bash
-Copy
-Edit
+cd 3d_portfolio
+
+3️⃣ Install dependencies
+bash
 npm install
-4. Start the development server
+
+4️⃣ Start the development server
 bash
-Copy
-Edit
 npm run dev
-This will start the website locally.
-Now open your browser and visit:
-👉 http://localhost:5173
+📍 Visit: http://localhost:5173 to view the website in your browser.
